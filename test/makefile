@@ -20,7 +20,8 @@ exe = 		\
 	test_press_syslog	\
 	test_syslog	\
 	test_default \
-	test_profile
+	test_profile \
+	test_by_roy
 
 all     :       $(exe)
 
